@@ -5,6 +5,7 @@ This project is completed during my diploma study.
 This java project was developed without using Object-Oriented Programming. 
 
 This project is developed in JDK 8. 
+***The project files is in master branch***
 
 This system is a simulation of a basic vending machine which sell drinks. This system
 is expected it built with a touchscreen on the machine which user can get instruction or
