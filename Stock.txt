@@ -1,0 +1,10 @@
+1|Coke|0|Coca Cola Co|Cans|2.5|Image\Drinks\Coke.jpg
+2|H&E Ice Lemon Tea|179|Heaven and Earth|Bottle|3.5|Image\Drinks\H&E Ice Lemon Tea.jpg
+3|Lipton Ice Tea|198|Lipton|Bottle|3.5|Image\Drinks\Lipton Ice Tea.jpg
+4|Oiishi|5|Oishi Co|Bottle|3.5|Image\Drinks\Oiishi.jpg
+5|Mineral Water|0|Spritzer|Bottle|3.5|Image\Drinks\Mineral Water.jpg
+6|Pepsi|200|Pepsi Co|Bottle|3.5|Image\Drinks\Pepsi.jpg
+7|100 Plus|100|100 Plus Co|Bottle|3.5|Image\Drinks\100 Plus.jpg
+8|Sprite|200|100 Plus Co|Bottle|3.5|Image\Drinks\Sprite.jpg
+9|Milo|199|Milo Co|Cans|2.5|Image\Drinks\Milo.jpg
+10|Nescafe Mocha|200|Nescafe Co|Cans|2.5|Image\Drinks\Nescafe Mocha.jpg
