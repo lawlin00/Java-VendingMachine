@@ -14,3 +14,4 @@ allowed customers to select interested drinks and then pay accordingly. Besides,
 who owns the machine is able to upload drinks information into the machine.
 
 
+test changes from koyumett
