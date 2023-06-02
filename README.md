@@ -1,5 +1,7 @@
 # Java-VendingMachine
 
+***The project code is in master branch***
+
 This project is completed during my diploma study. 
 
 This java project was developed without using Object-Oriented Programming. 
